@@ -1,16 +1,6 @@
-# shop_clean_architicture
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Retro bold checker mobile mockup facebook post  (3)](https://user-images.githubusercontent.com/113049000/191495804-66ef88c0-1fc2-4ee9-a747-1be30666c2ce.png)
+![Retro bold checker mobile mockup facebook post  (4)](https://user-images.githubusercontent.com/113049000/191495807-50d1fd2c-e54b-4918-aa32-65e066a1ebe2.png)
+![Retro bold checker mobile mockup facebook post  (5)](https://user-images.githubusercontent.com/113049000/191495811-573dbd6b-083a-44b4-9f5f-18c8c2c30d22.png)
+![Retro bold checker mobile mockup facebook post  (6)](https://user-images.githubusercontent.com/113049000/191495819-2deaf007-ad1f-45da-a657-12c0933dc02e.png)
+![Retro bold checker mobile mockup facebook post  (7)](https://user-images.githubusercontent.com/113049000/191495820-722ecc64-d8e9-4f99-a2d9-90239ef8b087.png)
+![Retro bold checker mobile mockup facebook post  (8)](https://user-images.githubusercontent.com/113049000/191495823-e526c7af-b36e-4ba5-813b-07c74c881a7d.png)
